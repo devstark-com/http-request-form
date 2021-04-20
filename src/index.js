@@ -1,4 +1,4 @@
-const { FormDataJson } = require('form-data-json-convert')
+import { FormDataJson } from 'form-data-json-convert'
 
 export class HttpRequestForm {
   constructor ({
